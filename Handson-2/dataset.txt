@@ -1,0 +1,55 @@
+Task 1: Scientific Explanation:
+
+Explain the greenhouse effect and its impact on climate change. Include:
+1. The basic mechanism of the greenhouse effect
+2. Key greenhouse gases and their sources
+3. Global implications
+4. Potential solutions
+Provide a comprehensive response in 250-300 words.
+
+Task 2: Literary Analysis
+
+Analyze the themes of power and corruption in George Orwell's "Animal Farm":
+1. Identify three major symbolic representations
+2. Explain how power dynamics evolve throughout the story
+3. Draw parallels to historical events
+4. Discuss the relevance to modern society
+Provide a detailed analysis in 300-350 words.
+
+Task 3: Ethical Dilemma
+
+A self-driving car must make a split-second decision:
+- Swerve left and hit an elderly couple
+- Swerve right and hit a group of school children
+- Continue straight and hit a single adult
+
+Analyze this ethical dilemma considering:
+1. Moral frameworks (utilitarian, deontological, virtue ethics)
+2. Programming implications for AI
+3. Legal and societal implications
+4. Proposed solution with justification
+
+Provide a thorough analysis in 350-400 words.
+
+Task 4: Business Case Analysis
+
+A major retail company is facing declining sales due to e-commerce competition.
+Develop a comprehensive strategy addressing:
+1. Digital transformation initiatives
+2. Customer experience enhancement
+3. Supply chain optimization
+4. Employee training and adaptation
+5. Financial implications and ROI
+
+Present a detailed business strategy in 300-350 words.
+
+Task 5: Historical Analysis
+
+Compare and contrast the Industrial Revolution and the Digital Revolution:
+1. Major technological innovations
+2. Societal impacts
+3. Economic transformations
+4. Environmental consequences
+5. Future implications
+
+Provide a comprehensive comparison in 350-400 words.
