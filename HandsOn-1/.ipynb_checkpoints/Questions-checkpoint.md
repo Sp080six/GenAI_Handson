@@ -1,5 +1,5 @@
 ## Assignment
-1) Identify all the research institutions, and people and locations mentioned by the researchers during their discussion. Create a list showing which researcher referenced which entities.
+1) Identify all the AI models, research institutions, and key technical terms mentioned by the researchers during their discussion. Create a list showing which researcher referenced which entities.
 
 2) What specific concerns did Dr. Sarah Chen raise about the potential risks of autonomous decision-making in AI systems, and how did other researchers respond to these concerns?
 
