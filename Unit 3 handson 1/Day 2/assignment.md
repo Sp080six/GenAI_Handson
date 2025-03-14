@@ -4,9 +4,9 @@ Design and Implement an AI Agent with custom Image Generation and Image Captioni
 
 Create a Python-based AI agent (Autogen/Crewai) that can write a story with images:
 
-- Generate images
-- Automatically caption images providing a descriptive text summary.
-- Create a Markdown (.md) file that integrates the story text, images, and their paths.
+- Generates images
+- Automatically captions images providing a descriptive text summary.
+- Creates a Markdown (.md) file that integrates the story text, images (with their paths, this is how it is one in markdown: `![](image_path)`).
 
 Custom built tools must be used. Crewai or Autogen both work.
 
